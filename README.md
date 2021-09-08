@@ -1,7 +1,10 @@
 
-# Learning symfony for robotic project 
+# Projet Raspberry/Arduino
 
-Ce projet en cours de développement a pour objectif d'exploiter le potentiel du ***framework Symfony.***
+Présentation de la conception d'un véhicule télécommandé via un boitier de commande ou interface web.
+
+## Technologies utilisées
+node js, c
 
 ## Partie Front-end
 J'ai intégré la partie front-end du site publié sur les GitHub Pages [**ihm-robotique**](https://ricou12.github.io/Robotique/) développé avec Jekyll, un générateur de site statique.
@@ -29,9 +32,9 @@ J'ai ajouté différentes fonctionnalités pour la partie back-end.
 	 - Développement du back office pour l’administration des comptes, sujets et commentaires.
 	 - Intégration de la pagination via un bundle.
 
-## Installation
+## Installation sous windows
 
- 1. **Prérequis**: Vous devez avoir installé [**wampServer**](https://www.wampserver.com/).
+ 1. **Prérequis**: Installé [**wampServer**](https://www.wampserver.com/).
 
  2. **Télécharger le projet** dans le dossier *www* de *wampserver* soit à partir du zip ou avec la commande  **git** via l'invite de commande.
 
